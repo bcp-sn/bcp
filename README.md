@@ -1,2 +1,2 @@
 # bcp
-le page officielle du site B.C.P
+Ce si est première version de notre site et nous somme ravi de vous accueillir. 

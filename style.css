@@ -489,7 +489,7 @@ footer {
     border-radius: 20px;
     border: solid white 1px;
 }
-.what:hover{
+.what{
   animation: zoomPulse 2s infinite ease-in-out;
 }
 

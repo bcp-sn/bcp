@@ -488,10 +488,11 @@ footer {
     padding: 15px;
     border-radius: 20px;
     border: solid white 1px;
+   animation: zoomPulse 2s infinite ease-in-out;
 }
-.what{
+/*.what{
   animation: zoomPulse 2s infinite ease-in-out;
-}
+}*/
 
 @keyframes zoomPulse {
   0% {
